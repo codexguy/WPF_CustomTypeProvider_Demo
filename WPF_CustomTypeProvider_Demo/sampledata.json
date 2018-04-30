@@ -1,0 +1,76 @@
+﻿{
+  "Schema": [
+    {
+      "Name": "Name",
+      "Type": "String"
+    },
+    {
+      "Name": "Age",
+      "Type": "Int32"
+    },
+    {
+      "Name": "Systolic",
+      "Type": "Int32"
+    },
+    {
+      "Name": "Diastolic",
+      "Type": "Int32"
+    },
+    {
+      "Name": "TestDate",
+      "Type": "DateTime"
+    },
+    {
+      "Name": "Temperature",
+      "Type": "Decimal"
+    },
+    {
+      "Name": "Weight",
+      "Type": "Decimal"
+    },
+    {
+      "Name": "FollowUpScheduled",
+      "Type": "DateTime"
+    }
+  ],
+  "People": [
+    {
+      "Name": "Bob",
+      "Age": 25,
+      "Systolic": 125,
+      "Diastolic": 85,
+      "TestDate": "4/25/2018",
+      "Temperature": "98.5"
+    },
+    {
+      "Name": "Fred",
+      "Age": 35,
+      "Systolic": 118,
+      "Diastolic": 76,
+      "TestDate": "4/24/2018"
+    },
+    {
+      "Name": "Terry",
+      "Age": 45,
+      "Systolic": 140,
+      "Diastolic": 98,
+      "TestDate": "4/20/2018",
+      "Temperature": "102.0",
+      "FollowUpScheduled": "4/30/2018",
+      "Weight": "176"
+    },
+    {
+      "Name": "Louis",
+      "Age": 55,
+      "TestDate": "4/20/2018",
+      "Temperature": "98.4",
+      "Weight": "199.5"
+    },
+    {
+      "Name": "Klay",
+      "Age": 30,
+      "TestDate": "4/25/2018",
+      "Temperature": "98.6"
+    }
+  ]
+}
