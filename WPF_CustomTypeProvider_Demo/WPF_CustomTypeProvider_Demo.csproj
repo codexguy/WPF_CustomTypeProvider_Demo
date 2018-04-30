@@ -37,8 +37,8 @@
     <Reference Include="CodexMicroORM.BindingSupport, Version=0.6.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\CodexMicroORM.BindingSupport.0.6.1\lib\net461\CodexMicroORM.BindingSupport.dll</HintPath>
     </Reference>
-    <Reference Include="CodexMicroORM.Core, Version=0.6.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\CodexMicroORM.Core.0.6.1\lib\netstandard2.0\CodexMicroORM.Core.dll</HintPath>
+    <Reference Include="CodexMicroORM.Core, Version=0.6.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CodexMicroORM.Core.0.6.2\lib\netstandard2.0\CodexMicroORM.Core.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
